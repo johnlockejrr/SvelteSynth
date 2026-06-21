@@ -53,8 +53,6 @@ One render path serves the editor iframe preview and CLI/batch scripts — no du
 ## Documentation
 
 - [QUICKSTART.md](QUICKSTART.md) — detailed usage
-- [AGENTS.md](AGENTS.md) — full project specification
-- [docs/superpowers/specs/2025-06-21-sveltesynth-design.md](docs/superpowers/specs/2025-06-21-sveltesynth-design.md) — design spec
 
 ## Scripts
 
